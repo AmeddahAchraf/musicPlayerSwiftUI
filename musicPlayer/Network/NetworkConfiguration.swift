@@ -9,7 +9,7 @@ enum NetworkConfiguration: String {
         case .debug:
             return "http://localhost:8080"
         case .production:
-            return "https://studio/api/"
+            return "https://studio-api.prod.suno.com/api/"
         }
     }
 

@@ -7,8 +7,9 @@ final class NetworkService: NetworkServiceProtocol {
     private init() {}
 
     private var defaultHeaders: [String: String] {
+        // TODO: INSERT YOUR TOKEN IN THE BEARER
         [
-            "Authorization": "Bearer ",
+            "Authorization": "Bearer INSERT YOUT TOKEN HERE",
             "Content-Type": "text/plain; charset=utf-8"
         ]
     }
