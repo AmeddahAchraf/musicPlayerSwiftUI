@@ -15,10 +15,23 @@
 		A6C3C7F72CBD4F7B00BBA744 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A64061F92CE90DDB0048434A /* Exceptions for "musicPlayer" folder in "musicPlayer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A68A0FF12CBC321800C5A1D2 /* musicPlayer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A68A0FF42CBC321800C5A1D2 /* sunoai */ = {
+		A68A0FF42CBC321800C5A1D2 /* musicPlayer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = sunoai;
+			exceptions = (
+				A64061F92CE90DDB0048434A /* Exceptions for "musicPlayer" folder in "musicPlayer" target */,
+			);
+			path = musicPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -38,7 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				A6C3C7F72CBD4F7B00BBA744 /* AppDelegate.swift */,
-				A68A0FF42CBC321800C5A1D2 /* sunoai */,
+				A68A0FF42CBC321800C5A1D2 /* musicPlayer */,
 				A68A0FF32CBC321800C5A1D2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -67,12 +80,12 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A68A0FF42CBC321800C5A1D2 /* sunoai */,
+				A68A0FF42CBC321800C5A1D2 /* musicPlayer */,
 			);
 			name = musicPlayer;
 			packageProductDependencies = (
 			);
-			productName = sunoai;
+			productName = musicPlayer;
 			productReference = A68A0FF22CBC321800C5A1D2 /* musicPlayer.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -261,7 +274,7 @@
 				DEVELOPMENT_TEAM = N3S4B653MC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = sunoai/Info.plist;
+				INFOPLIST_FILE = musicPlayer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,7 +303,7 @@
 				DEVELOPMENT_TEAM = N3S4B653MC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = sunoai/Info.plist;
+				INFOPLIST_FILE = musicPlayer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

@@ -8,7 +8,7 @@ final class NetworkService: NetworkServiceProtocol {
 
     private var defaultHeaders: [String: String] {
         [
-            "Authorization": "Bearer",
+            "Authorization": "Bearer ",
             "Content-Type": "text/plain; charset=utf-8"
         ]
     }
