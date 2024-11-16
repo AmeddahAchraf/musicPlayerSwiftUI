@@ -11,9 +11,10 @@ This was just a playground to stream some of my favorite songs from the website
 - 🎧 **Background Playback**: Enjoy uninterrupted music while using other apps.
 
 ## Screenshots 📸
-![]([https://media.giphy.com/media/idY5B1rrKSWQe1GW7L/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3piMDFyZXJmZ2M5MjcyZm9tbTZvNmF6aGQ0d3NpejA4NGE4amtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LJDv91OaAYsnOHU2pI/giphy.gif))
-![]([https://media.giphy.com/media/THm23xChJRPXji5aM5/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRueXlpODZpY24ybHRqNWQwNzR6YWx6Zmp6MDR2MnE0bjdrdGMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wttWBkMtf5SmPT5XO5/giphy.gif))
-![]([https://media.giphy.com/media/cJ4dmOLxAcD18nwc13/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVpazJuc3VnM29ieXcxMXg0dHRzMjE0eWc2azk3bGw1Z24zdWU5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfA6YKJcEfYALfm14d/giphy.gif))
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3piMDFyZXJmZ2M5MjcyZm9tbTZvNmF6aGQ0d3NpejA4NGE4amtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LJDv91OaAYsnOHU2pI/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRueXlpODZpY24ybHRqNWQwNzR6YWx6Zmp6MDR2MnE0bjdrdGMzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wttWBkMtf5SmPT5XO5/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVpazJuc3VnM29ieXcxMXg0dHRzMjE0eWc2azk3bGw1Z24zdWU5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfA6YKJcEfYALfm14d/giphy.gif)
+
 
 ## How to Run 🚀
 1. Clone this repository:  
